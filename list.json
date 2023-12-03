@@ -1,0 +1,18 @@
+[
+    {   
+        text: 'Dormire',
+        done: false
+    },
+    {
+        text: 'Uscire',
+        done: true
+    },
+    {
+        text: 'Giocare',
+        done: true
+    },
+    {
+        text: 'Mangiare',
+        done: false
+    }
+],
