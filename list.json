@@ -1,18 +1,1 @@
-[
-    {   
-        text: 'Dormire',
-        done: false
-    },
-    {
-        text: 'Uscire',
-        done: true
-    },
-    {
-        text: 'Giocare',
-        done: true
-    },
-    {
-        text: 'Mangiare',
-        done: false
-    }
-],
+[{"text":"uscire","done":false},{"text":"mangiare","done":false},{"text":"correre","done":false}]
